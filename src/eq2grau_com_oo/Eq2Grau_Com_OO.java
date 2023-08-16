@@ -1,7 +1,7 @@
 package eq2grau_com_oo;
 
 import java.util.Scanner;
-
+ 
 public class Eq2Grau_Com_OO {
 
     public static void main(String[] args) {
