@@ -32,6 +32,8 @@ public class Eq2Grau_Com_OO {
 
         System.out.println("x1: " + eq.getX1());
         System.out.println("x2: " + eq.getX2());
+
+        scan.close();
     }
 
 }
